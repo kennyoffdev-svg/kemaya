@@ -1,0 +1,53 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My AI Website</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #101124;
+      color: white;
+      text-align: center;
+    }
+    header {
+      padding: 24px;
+      background: #191a35;
+    }
+    main {
+      padding: 80px 20px;
+    }
+    h1 {
+      font-size: 42px;
+      color: #b8a4ff;
+    }
+    p {
+      color: #d1d1e5;
+      line-height: 1.7;
+    }
+    a {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 14px 24px;
+      background: #7958ff;
+      color: white;
+      text-decoration: none;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <strong>My AI Website</strong>
+  </header>
+  <main>
+    <h1>Your AI Assistant</h1>
+    <p>Welcome to my website.<br>
+       Your AI-powered experience starts here.</p>
+    <a href="mailto:hello@example.com">Contact Us</a>
+  </main>
+</body>
+</html>
